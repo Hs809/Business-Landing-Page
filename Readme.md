@@ -10,7 +10,7 @@ I have build this Business Template with my core HTML CSS skills
 
 ![image](./images/created.png)
 
-You can check out here: [Justice By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out here: [Business Landing Page By Hitesh](https://business-landing-page-by-hitesh.netlify.app/)
 
 
 
@@ -26,7 +26,7 @@ You can check out here: [Justice By Hitesh](https://justice-by-hitesh.netlify.ap
 
 ![image](./images/approach.png)
 
-## This project took me around 2 hours approximately.
+## This project took me around 4 hours approximately.
 
 ### Connect with me 
 [Twitter](https://twitter.com/HiteshP25522550) 
